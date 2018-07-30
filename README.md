@@ -1,3 +1,5 @@
+Battleship, written in java for the CS112 Final Project at Amherst College (2017-2018). Written by Kyler Kopacz, Kaitlin Hoang, and Sam Rydzewski.
+
 To compile: In terminal type javac *.java
 To run: In terminal type java StartGame
 
